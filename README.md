@@ -2,6 +2,8 @@
 
 A specialized e-commerce platform designed for artists, makers, designers, and creative entrepreneurs. This platform provides a straightforward way for independent creators to set up online stores to sell their work.
 
+![Creative Marketplace Screenshot](https://github.com/afmontoya/ecommerce/blob/main/ecomerce-platform-by-albert-montoya-2025.png)
+
 ## Features
 
 ### Storefront
